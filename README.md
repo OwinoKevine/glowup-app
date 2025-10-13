@@ -48,6 +48,7 @@ Just open index.html in your browser (no server needed for frontend).
 # API Used
 Makeup API
 URL: https://makeup-api.herokuapp.com/api/v1/products.json
+
 Provides public access to makeup products by type, brand, and more.
 
 # Example User Stories
