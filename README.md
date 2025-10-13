@@ -30,13 +30,13 @@ glowup/
 # Installation & Setup
 1. Clone the Repository
 git clone https://github.com/yourusername/glowup.git
-cd glowup
+. cd glowup
 
 3. Install json-server
-npm install -g json-server
+. npm install -g json-server
 
 3. Start the Backend
-json-server --watch db.json
+. json-server --watch db.json
 
 4. Open the App
 Just open index.html in your browser (no server needed for frontend).
