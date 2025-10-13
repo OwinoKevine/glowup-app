@@ -53,14 +53,20 @@ Provides public access to makeup products by type, brand, and more.
 
 # Example User Stories
 As a user, I want to browse makeup products by type.
+
 As a user, I want to filter by brand and price.
+
 As a user, I want to view detailed product info.
+
 As a user, I want to save items to a wishlist and view them later.
 
 # Future Improvements
 Persist wishlist with user accounts.
+
 Add dark/light theme toggle.
+
 Add pagination or infinite scrolling.
+
 Deploy app to GitHub Pages or Netlify.
 
 # License
