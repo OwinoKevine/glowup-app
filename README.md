@@ -14,18 +14,26 @@ Fully asynchronous data fetching and UI rendering.
 
 Tech	Description
   HTML	Semantic structure
+  
   CSS	Custom + Bootstrap 5 for layout and responsiveness
+  
   JavaScript	App logic, DOM manipulation, fetch API
+  
   Makeup API	Public product data
+  
   json-server	Local REST API to persist wishlist
 
 # Project Structure
 glowup/
 │
 ├── index.html          # Main single-page HTML
+
 ├── styles.css          # Custom styles + Bootstrap overrides
+
 ├── script.js           # App logic (fetch, filter, wishlist)
+
 ├── db.json             # json-server storage for wishlist
+
 └── README.md           # This file
 
 # Installation & Setup
