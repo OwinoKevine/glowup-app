@@ -33,7 +33,7 @@ git clone https://github.com/yourusername/glowup.git
 
 cd glowup
 
-3. Install json-server
+2. Install json-server
 
 npm install -g json-server
 
