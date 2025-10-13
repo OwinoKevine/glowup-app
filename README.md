@@ -5,9 +5,13 @@ GlowUp is a responsive and interactive single-page web application that allows u
 
 # Features
 Search and filter by brand, product type, or name.
+
 View detailed product info including image, price, and description.
+
 Add products to a wishlist, saved locally via json-server.
+
 Responsive design powered by Bootstrap.
+
 Fully asynchronous data fetching and UI rendering.
 
 # Tech Stack
@@ -26,6 +30,7 @@ Tech	Description
 # Project Structure
 glowup/
 │
+
 ├── index.html          # Main single-page HTML
 
 ├── styles.css          # Custom styles + Bootstrap overrides
