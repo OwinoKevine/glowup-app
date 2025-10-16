@@ -80,7 +80,7 @@ Add dark/light theme toggle.
 
 Add pagination or infinite scrolling.
 
-Deploy app to GitHub Pages or Netlify.
+Deploy app to GitHub Pages.
 
 # License
 This project is open-source and free to use under the MIT License.
