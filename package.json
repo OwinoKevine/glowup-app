@@ -4,12 +4,12 @@
   "description": "GlowUp is a responsive and interactive single-page web application that allows users to discover, filter, and save their favorite makeup products. Built using HTML, CSS (with Bootstrap), and JavaScript, it fetches real-time data from the Makeup API  and allows wishlist persistence via json-server.",
   "main": "script.js",
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -23,8 +23,8 @@
     "url": "https://github.com/OwinoKevine/glowup-app/issues"
   },
   "homepage": "https://OwinoKevine.github.io/glowup",
-
   "dependencies": {
-    "axios": "^1.12.2"
+    "axios": "^1.12.2",
+    "react-scripts": "^5.0.1"
   }
 }
